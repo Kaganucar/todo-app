@@ -2,7 +2,7 @@
 
 React ve Tailwind CSS ile geliştirilmiş, görev ekleme, listeleme, güncelleme ve silme işlemlerini destekleyen bir TODO uygulamasıdır. Veriler tarayıcının LocalStorage alanında saklanır; sayfa yenilendiğinde kaybolmaz.
 
-🔗 **Canlı Demo:** NETLIFY_LINKI
+🔗 **Canlı Demo:** https://kagan-gorev-listem.netlify.app
 
 ## Özellikler
 
